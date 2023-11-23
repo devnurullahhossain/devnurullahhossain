@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![nurullah's cover](nurullah.png)
 <!--
 **devnurullahhossain/devnurullahhossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
